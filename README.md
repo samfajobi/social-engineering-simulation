@@ -16,4 +16,13 @@ This lab was conducted in a **controlled and ethical environment** for cybersecu
 - Social-engineering messages to simulate attacker behavior
 - Awareness training for participants
 
+## What was learned
+- How phishing exploits trust and urgency
+- How URL masking and fake login pages are used
+- Why technical defenses alone are not enough
+- How awareness reduces successful attacks
 
+## Ethical Notice
+No real accounts were compromised. All participants were informed immediately after the test and advised to change any test passwords used.
+
+This project is for defensive security education only.
