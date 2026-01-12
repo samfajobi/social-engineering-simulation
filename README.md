@@ -41,12 +41,19 @@ Logging & Analysis
 
 ## What was built
 - Social-engineering messages to simulate attacker behavior
+
 ![tiktok-phish-1](screenshots/tiktok-phish-status.jpeg) 
 
 - A TikTok-style login page clone using HTML and CSS
+
 ![tiktok-phish-1](screenshots/tiktok-phish-main.png) 
 
 - A backend that records form submissions (for demonstration only)
+
+![tiktok-phish-1](screenshots/tiktok-phish.png) 
+
+![tiktok-phish-1](screenshots/phish-creds.png) 
+
 - Awareness training for participants
 
 ## What was learned
