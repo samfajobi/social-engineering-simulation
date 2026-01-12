@@ -53,8 +53,8 @@ Logging & Analysis
 ![tiktok-phish-1](screenshots/tiktok-phish.png) 
 
 ![tiktok-phish-1](screenshots/phish-creds.png) 
-c
-- 4 Awareness training for participants
+
+4. - Awareness training for participants
 
 ## What was learned
 - How phishing exploits trust and urgency
