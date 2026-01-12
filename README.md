@@ -16,6 +16,7 @@ No real credentials were stored, and all participants were informed immediately 
 
 ## Architecture (Diagram)
 
+```
 Victim Browser
       |
       v
@@ -29,6 +30,7 @@ Local Lab Server
       |
       v
 Logging & Analysis
+```
 
 
 ## Objective
