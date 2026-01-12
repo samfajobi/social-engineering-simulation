@@ -40,9 +40,13 @@ Logging & Analysis
 - Train users to detect phishing attempts
 
 ## What was built
-- A TikTok-style login page clone using HTML and CSS
-- A backend that records form submissions (for demonstration only)
 - Social-engineering messages to simulate attacker behavior
+![tiktok-phish-1](screenshots/tiktok-phish-status.jpeg) 
+
+- A TikTok-style login page clone using HTML and CSS
+![tiktok-phish-1](screenshots/tiktok-phish-main.png) 
+
+- A backend that records form submissions (for demonstration only)
 - Awareness training for participants
 
 ## What was learned
