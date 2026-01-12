@@ -4,6 +4,27 @@ This project demonstrates how attackers use fake login pages and social engineer
 
 This lab was conducted in a **controlled and ethical environment** for cybersecurity awareness and educational purposes only.
 
+
+
+
+
+## Architecture (Diagram)
+
+Victim Browser
+      |
+      v
+Phishing Page (HTML/CSS)
+      |
+      v
+Ngrok Tunnel
+      |
+      v
+Local Lab Server
+      |
+      v
+Logging & Analysis
+
+
 ## Objective
 - Simulate a real-world phishing scenario
 - Observe how users interact with phishing links
