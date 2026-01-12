@@ -4,8 +4,14 @@ This project demonstrates how attackers use fake login pages and social engineer
 
 This lab was conducted in a **controlled and ethical environment** for cybersecurity awareness and educational purposes only.
 
+## Infrastructure Overview
 
+The lab used a lightweight web server to host a cloned login page. 
+A secure tunneling service (Ngrok) was used to expose the local server to the internet, simulating how attackers host phishing pages on external infrastructure.
 
+User interactions were logged in order to measure how quickly phishing attempts succeed and to demonstrate the risks of credential reuse.
+
+No real credentials were stored, and all participants were informed immediately after the test.
 
 
 ## Architecture (Diagram)
